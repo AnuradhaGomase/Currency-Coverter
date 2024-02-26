@@ -12,7 +12,7 @@ Clone down this repository.
 
 To Visit App:
 
-Open index.html to view it in your browser and start playing.
+Open index.html to view it in your browser and try currency conversion.
 
 ## Reflection
 
